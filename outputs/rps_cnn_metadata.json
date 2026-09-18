@@ -24,6 +24,6 @@
       0.225
     ]
   },
-  "test_accuracy": 0.9982190560997328,
+  "test_accuracy": 1.0,
   "best_val_accuracy": 1.0
 }
